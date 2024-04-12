@@ -17,7 +17,7 @@ Google 有很强地反爬虫能力，一般的爬虫会很快被封IP。
 
 yagooglesearch 是一个 Python 库，可以模拟真实的 Google 搜索行为，可以有效防止 Google 429 响应。
 
-**注意：** 爬取 Google 搜索结果可能会违反他们的服务条款，所以使用 Google 的首选方法是使用它们的官方 [API]((https://developers.google.com/custom-search/v1/overview?hl=zh-cn)) 。
+**注意：** 爬取 Google 搜索结果可能会违反他们的服务条款，所以使用 Google 的首选方法是使用它们的官方 [API](https://developers.google.com/custom-search/v1/overview?hl=zh-cn) 。
 
 ## 使用
 
